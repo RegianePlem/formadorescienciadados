@@ -12,3 +12,8 @@ body {
     height: 100vh;
     margin: 0;
   }
+
+  span{
+    font-weight: bold;
+    color: var(--secundary-color);
+  }
